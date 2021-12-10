@@ -1,16 +1,16 @@
 # Machine-Learning-Projects
 Projects in this Repository
 
-1. Ads-CTR-Optimization
-2. Market Basket Optimization
-3. NLP Restraunt Review Analysis
-4. Poetry Generation using LSTM
-5. Churn Modelling using ANN
-6. Clustering of Mall Customers
-7. CNN Classifier
-8. Binary Classifier
-9. Startup Company Profit Prediction
-10. Employee Salary Prediction
+1. [Ads-CTR-Optimization](https://github.com/Abhishek-Aditya-bs/Machine-Learning-Projects/tree/main/Ads-CTR-Optimisation)
+2. [Market Basket Optimization](https://github.com/Abhishek-Aditya-bs/Machine-Learning-Projects/tree/main/Market-Basket-Optimization)
+3. [NLP Restraunt Review Analysis](https://github.com/Abhishek-Aditya-bs/Machine-Learning-Projects/tree/main/NLP-Restaurant-Reviews-analysis)
+4. [Poetry Generation using LSTM](https://github.com/Abhishek-Aditya-bs/Machine-Learning-Projects/tree/main/Poetry-Generator-Using-LSTM)
+5. [Churn Modelling using ANN](https://github.com/Abhishek-Aditya-bs/Machine-Learning-Projects/tree/main/Churn-Modelling-ANN)
+6. [Clustering of Mall Customers](https://github.com/Abhishek-Aditya-bs/Machine-Learning-Projects/tree/main/Clustering-of-Mall-Customers)
+7. [CNN Classifier](https://github.com/Abhishek-Aditya-bs/Machine-Learning-Projects/tree/main/CNN-Classifier)
+8. [Binary Classifier](https://github.com/Abhishek-Aditya-bs/Machine-Learning-Projects/tree/main/Binary-Classifier)
+9. [Startup Company Profit Prediction](https://github.com/Abhishek-Aditya-bs/Machine-Learning-Projects/tree/main/Startup-company-Profit-Prediction)
+10. [Employee Salary Prediction](https://github.com/Abhishek-Aditya-bs/Machine-Learning-Projects/tree/main/Employee-Salary-Prediction)
 
 
 # Ads CTR Optimisation using Reinforcement Learning
